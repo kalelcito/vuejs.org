@@ -102,7 +102,7 @@ axios
   .catch(error => console.log(error))
 ```
 
-Esto permitirá saber si algo fallo durante la llamada a la API, pero que ocurre si los datos están estropeados o la API está fuera de servicio? Por ahora, el usuario simplemente no verá nada. Por ello se quisiera incluir un cargador y notificar al usuario si no es factible obtener datos en lo absoluto.
+Esto permitirá saber si algo falló durante la llamada a la API, pero que ocurre si los datos están estropeados o la API está fuera de servicio? Por ahora, el usuario simplemente no verá nada. Por ello se quisiera incluir un cargador y notificar al usuario si no es factible obtener datos en lo absoluto.
 
 ```js
 new Vue({
