@@ -46,7 +46,7 @@ Usted puede ejecutar el ejemplo aquí:
 <p data-height="265" data-theme-id="0" data-slug-hash="KodaKb" data-default-tab="js,result" data-user="cfjedimaster" data-embed-version="2" data-pen-title="testing localstorage" class="codepen">Vea el Pen <a href="https://codepen.io/cfjedimaster/pen/KodaKb/">probando localstorage</a> por Raymond Camden (<a href="https://codepen.io/cfjedimaster">@cfjedimaster</a>) en <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-Escriba algo en el formulario y luego recargue la página. Usted notará que el valor escrito anteriormente será mostrado automáticamente. No se olvide que el navegador provee the herramientas de desarrollador para que pueda inspeccionar el almacenamiento del lado de cliente. Puede ver un ejemplo en Firefox a continuación:
+Escriba algo en el formulario y luego recargue la página. Usted notará que el valor escrito anteriormente será mostrado automáticamente. No se olvide que el navegador provee de herramientas de desarrollador para que pueda inspeccionar el almacenamiento del lado de cliente. Puede ver un ejemplo en Firefox a continuación:
 
 ![Herramientas de desarrollador para almacenamiento en Firefox](/images/devtools-storage.png)
 
